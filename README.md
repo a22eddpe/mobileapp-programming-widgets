@@ -1,5 +1,4 @@
 
-# Rapport
 
 Det första jag gjorde var att forka projektet och clona den. 
 Jag valde att göra en constraint layout. Jag skapade sedan en textview och 
